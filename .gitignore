@@ -4,3 +4,6 @@ bower_components
 
 # Ignore Compile Files
 dist
+
+# Ignore System Files
+.**
