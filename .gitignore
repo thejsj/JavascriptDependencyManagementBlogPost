@@ -1,0 +1,6 @@
+# Ignore Dependencies
+node_modules
+bower_components
+
+# Ignore Compile Files
+dist
