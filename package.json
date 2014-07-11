@@ -11,6 +11,7 @@
     "grunt-contrib-watch": "~0.6.1"
   },
   "dependencies": {
-    "jquery": "https://github.com/jquery/jquery/archive/1.11.1.tar.gz"
+    "jquery": "https://github.com/jquery/jquery/archive/1.11.1.tar.gz",
+    "underscore": "~1.6.0"
   }
 }

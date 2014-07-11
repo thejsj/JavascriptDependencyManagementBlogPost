@@ -1,0 +1,18 @@
+{
+  "name": "JavascriptDependencyManagementBlogPost",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thejsj/JavascriptDependencyManagementBlogPost",
+  "authors": [
+    "thejsj <jorge.silva@thejsj.com>"
+  ],
+  "description": "Example of dependency management in Javascript",
+  "main": "app/main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

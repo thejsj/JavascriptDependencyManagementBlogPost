@@ -3,18 +3,25 @@ body {
     padding: 0;
     width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 .circle-container {
     width: 100%;
     height: 100%;
     background: #eeeeff;
+
+    background: 
+        linear-gradient(#2847E9, transparent), 
+        linear-gradient(90deg, #B7D69B, transparent), 
+        linear-gradient(-90deg, #E6D0F5, transparent);
+    background-blend-mode: screen;
 }
 
 .single-circle {
     background: black;
     width: 10px;
     height: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     position: absolute;
 }
